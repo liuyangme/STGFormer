@@ -1,6 +1,6 @@
 # STGFormer: Spatio-Temporal GraphFormer for 3D Human Pose Estimation in Video
 
-Authors: Yang Liu, Changzhen Qiu, Zhiyong Zhang*
+Authors: Yang Liu, Zhiyong Zhang*
 
 School of Electronics and Communication Engineering, Sun Yat-sen University, Shenzhen, Guangdong, China
 
